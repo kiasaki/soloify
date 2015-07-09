@@ -1,6 +1,6 @@
 # soloify
 
-[![Build Status](https://travis-ci.org/kiasaki/soloify)](https://travis-ci.org/kiasaki/soloify)
+[![Build Status](https://travis-ci.org/kiasaki/soloify.svg)](https://travis-ci.org/kiasaki/soloify)
 
 Simple transform to compile [solo](https://github.com/kiasaki/solo-lisp) to JavaScript when using [Browserify](https://github.com/substack/node-browserify).
 
